@@ -1,5 +1,6 @@
 # Hang-Man Project
 by Samarjit Bhogal
+(Imported from school GitHub for public view)
 
 -----
 This application is a simple game of Hang-Man, a word guessing game. The user will have to guess the word 
